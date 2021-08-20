@@ -11,7 +11,7 @@
 - [Official Resources](#official-resources)
 - [Integration](#integration)
 - [Tools](#tools)
-
+- [Contribute](#contribute)
 
 ## Official Resources
 
@@ -24,14 +24,14 @@
 
 ## Integration
 
-- [Offical JS SDK](https://www.npmjs.com/package/@directus/sdk) - The JS SDK provides an intuitive interface for the Directus API from within a JavaScript-powered project (browsers and node.js)
-- [Offical Gatsby Source Plugin](https://www.npmjs.com/package/@directus/gatsby-source-directus) - Source plugin for pulling data into Gatsby from a Directus API
-- [react-directus](https://github.com/gremo/react-directus) - A set of React components and utilities for Directus Headless CMS
+- [Offical JS SDK](https://www.npmjs.com/package/@directus/sdk) - The JS SDK provides an intuitive interface for the Directus API from within a JavaScript-powered project (Browsers and Node.js).
+- [Offical Gatsby Source Plugin](https://www.npmjs.com/package/@directus/gatsby-source-directus) - Source plugin for pulling data into Gatsby from a Directus API.
+- [react-directus](https://github.com/gremo/react-directus) - A set of React components and utilities for Directus Headless CMS.
 
 
 ## Tools
 
-- [migration-tool](https://github.com/directus-community/migration-tool) - Automated script to migrate from Directus v8 to Directus v9 
+- [migration-tool](https://github.com/directus-community/migration-tool) - Automated script to migrate from Directus v8 to Directus v9. 
 
 
 ## Contribute
