@@ -2,7 +2,7 @@
 
 # Awesome Directus
 
-> A curated list of awesome stuff related to Directus
+> A curated list of awesome things related to Directus
 
 [Directus](https://directus.io/) is a real-time API and App dashboard for managing SQL database content.
 
