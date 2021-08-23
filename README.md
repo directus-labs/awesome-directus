@@ -31,8 +31,8 @@
 
 ## Tools
 
-- [migration-tool](https://github.com/directus-community/migration-tool) - Automated script to migrate from Directus v8 to Directus v9. 
-
+- [migration-tool](https://github.com/directus-community/migration-tool) - Automated script to migrate from Directus v8 to Directus v9.
+- [directus-auto-migrate](https://github.com/dstoyanoff/directus-auto-migrate) - A CLI to automatically generate Directus migrations based on the changes in a real instance.
 
 ## Contribute
 
