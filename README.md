@@ -10,6 +10,7 @@
 
 - [Official Resources](#official-resources)
 - [Integration](#integration)
+- [Extensions](#extensions)
 - [Tools](#tools)
 - [Contribute](#contribute)
 
@@ -21,13 +22,15 @@
 - [Live Discussions on Discord](https://directus.chat/)
 - [Video Tutorials on YouTube](https://www.youtube.com/c/DirectusVideos/featured)
 
-
 ## Integration
 
 - [Offical JS SDK](https://www.npmjs.com/package/@directus/sdk) - The JS SDK provides an intuitive interface for the Directus API from within a JavaScript-powered project (Browsers and Node.js).
 - [Offical Gatsby Source Plugin](https://www.npmjs.com/package/@directus/gatsby-source-directus) - Source plugin for pulling data into Gatsby from a Directus API.
 - [react-directus](https://github.com/gremo/react-directus) - A set of React components and utilities for Directus Headless CMS.
 
+## Extensions
+
+- [Editor.js Interface](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) - Block editor (Editor.js) interface for Directus 9.
 
 ## Tools
 
