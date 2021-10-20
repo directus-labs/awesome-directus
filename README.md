@@ -1,10 +1,10 @@
 ![Directus Logo](media/directus.png)
 
-# Awesome Directus
+# Awesome Directus [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome things related to Directus
 
-[Directus](https://directus.io/) is a real-time API and App dashboard for managing SQL database content.
+[Directus](https://directus.io) is a real-time API and App dashboard for managing SQL database content.
 
 ## Contents
 
@@ -12,13 +12,12 @@
 - [Integration](#integration)
 - [Extensions](#extensions)
 - [Tools](#tools)
-- [Contribute](#contribute)
 
 ## Official Resources
 
 - [Documentation](https://docs.directus.io/getting-started/introduction/)
 - [GitHub Repository](https://github.com/directus/directus)
-- [Live Discussions on Discord](https://directus.chat/)
+- [Live Discussions on Discord](https://directus.chat)
 - [Video Tutorials on YouTube](https://www.youtube.com/c/DirectusVideos/featured)
 
 ## Integration
@@ -38,6 +37,6 @@
 - [migration-tool](https://github.com/directus-community/migration-tool) - Automated script to migrate from Directus v8 to Directus v9.
 - [directus-auto-migrate](https://github.com/dstoyanoff/directus-auto-migrate) - A CLI to automatically generate Directus migrations based on the changes in a real instance.
 
-## Contribute
+## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
