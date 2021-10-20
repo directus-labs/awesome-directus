@@ -30,7 +30,7 @@
 ## Extensions
 
 - [Editor.js Interface](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) - Block editor (Editor.js) interface for Directus 9.
-- [Draw Interface](https://github.com/jesusgp22/directus-draw-interface) - Free draw interface for directus app.
+- [Draw Interface](https://github.com/jesusgp22/directus-draw-interface) - Free draw interface for Directus app.
 
 ## Tools
 
