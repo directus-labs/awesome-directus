@@ -16,7 +16,6 @@
 
 ## Official Resources
 
-- [Official Website](https://directus.io/)
 - [Documentation](https://docs.directus.io/getting-started/introduction/)
 - [GitHub Repository](https://github.com/directus/directus)
 - [Live Discussions on Discord](https://directus.chat/)
