@@ -31,6 +31,7 @@
 
 - [Editor.js Interface](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) - Block editor (Editor.js) interface for Directus 9.
 - [Draw Interface](https://github.com/jesusgp22/directus-draw-interface) - Free draw interface for Directus app.
+- [User-friendly file paths](https://gist.github.com/ToJans/fa18e2a7363edd24be6ad8dda2dd0232) - Use the folder and file module structure to reference to assets.
 
 ## Tools
 
