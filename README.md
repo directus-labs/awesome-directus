@@ -25,7 +25,7 @@
 - [Offical JS SDK](https://www.npmjs.com/package/@directus/sdk) - The JS SDK provides an intuitive interface for the Directus API from within a JavaScript-powered project (Browsers and Node.js).
 - [Offical Gatsby Source Plugin](https://www.npmjs.com/package/@directus/gatsby-source-directus) - Source plugin for pulling data into Gatsby from a Directus API.
 - [react-directus](https://github.com/gremo/react-directus) - A set of React components and utilities for Directus Headless CMS.
-- [Flutter SDK](https://github.com/workatease/directus9_sdk_flutter) - Flutter SDK to provide interface for Directus API.
+- [Flutter SDK](https://pub.dev/packages/directus) - Flutter SDK to provide interface for Directus API.
 
 ## Extensions
 
