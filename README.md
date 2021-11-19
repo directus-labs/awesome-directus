@@ -30,6 +30,7 @@
 
 ## Extensions
 
+- [Image Scout](https://github.com/resauce-dev/directus-image-scout?ref=awesome-directus) - Search and select images found on a variety of royalty free image sites (Pexels, Pixabay, Unsplash & Giphy!)
 - [Editor.js Interface](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) - Block editor (Editor.js) interface for Directus 9.
 - [Draw Interface](https://github.com/jesusgp22/directus-draw-interface) - Free draw interface for Directus app.
 - [User-friendly file paths](https://gist.github.com/ToJans/fa18e2a7363edd24be6ad8dda2dd0232) - Use the folder and file module structure to reference to assets.
