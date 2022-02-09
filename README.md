@@ -46,6 +46,7 @@
 - [SQL Panel](https://github.com/harish2704/directus-sql-panel) - Panel component which shows result of stored SQL query as a table.
 - [Websocket Subscribe](https://github.com/br41nslug/directus-websocket-subscribe) - An extension to subscribe to Directus updates over a websocket. 
 - [SVG Map Picker Interface](https://github.com/dimitrov-adrian/directus-extension-svgmap-picker-interface) - Select a value from a SVG Map box.
+- [SES](https://github.com/ryntab/Directus-SES) - An extension for sending emails with AWS SES.
 
 ## Tools
 
