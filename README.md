@@ -12,6 +12,7 @@
 - [Integration](#integration)
 - [Extensions](#extensions)
 - [Tools](#tools)
+- [Showcases](#showcases)
 
 ## Official Resources
 
@@ -19,6 +20,7 @@
 - [GitHub Repository](https://github.com/directus/directus)
 - [Live Discussions on Discord](https://directus.chat)
 - [Video Tutorials on YouTube](https://www.youtube.com/c/DirectusVideos/featured)
+- [Community Repositories](https://github.com/directus-community)
 
 ## Integration
 
@@ -44,8 +46,11 @@
 
 ## Tools
 
-- [migration-tool](https://github.com/directus-community/migration-tool) - Automated script to migrate from Directus v8 to Directus v9.
 - [directus-auto-migrate](https://github.com/dstoyanoff/directus-auto-migrate) - A CLI to automatically generate Directus migrations based on the changes in a real instance.
+
+## Showcases
+
+If you're using Directus in an open source project, you're very welcome to link this project here.
 
 ## Contributing
 
