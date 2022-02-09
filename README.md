@@ -43,6 +43,7 @@
 - [Link Meta](https://github.com/dimitrov-adrian/directus-extension-linkmeta) - Stores hyperlink metadata into Directus.
 - [Group Modal](https://github.com/dimitrov-adrian/directus-extension-group-modal-interface) - Group interface fields into a modal that can be opened with a button.
 - [Display Link](https://github.com/jacoborus/directus-extension-display-link) - Display URLs with an "open in new tab" button.
+- [SVG Map Picker Interface](https://github.com/dimitrov-adrian/directus-extension-svgmap-picker-interface) - Select a value from a SVG Map box.
 
 ## Tools
 
