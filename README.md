@@ -37,12 +37,12 @@
 - [Draw Interface](https://github.com/jesusgp22/directus-draw-interface) - Free draw interface for Directus app.
 - [User-friendly file paths](https://gist.github.com/ToJans/fa18e2a7363edd24be6ad8dda2dd0232) - Use the folder and file module structure to reference to assets.
 - [Date Picker Interface](https://github.com/u12206050/directus-9-date-picker-interface) - An alternative Date Picker Interface to the original Directus DateTime interface.
-- [Search Sync](https://github.com/dimitrov-adrian/directus-extension-searchsync) - Sync data into a search engine index, supports Algolia, ElasticSearch & MeiliSearch
-- [Dictionary](https://github.com/georgexchelebiev/directus-dictionary) - Save key-value pairs as JSON blobs with a progress indicator for completeness
-- [WordPress-like Slug](https://github.com/dimitrov-adrian/directus-extension-wpslug-interface) - Slug/Permalink interface with support for pre- and suffixes
-- [Link Meta](https://github.com/dimitrov-adrian/directus-extension-linkmeta) - Stores hyperlink metadata into Directus
-- [Group Modal](https://github.com/dimitrov-adrian/directus-extension-group-modal-interface) - Group interface fields into a modal that can be opened with a button
-- [Display Link](https://github.com/jacoborus/directus-extension-display-link) - Display URLs with an open in new tab button
+- [Search Sync](https://github.com/dimitrov-adrian/directus-extension-searchsync) - Sync data into a search engine index, supports Algolia, ElasticSearch & MeiliSearch.
+- [Dictionary](https://github.com/georgexchelebiev/directus-dictionary) - Save key-value pairs as JSON blobs with a progress indicator for completeness.
+- [WordPress-like Slug](https://github.com/dimitrov-adrian/directus-extension-wpslug-interface) - Slug/Permalink interface with support for pre- and suffixes.
+- [Link Meta](https://github.com/dimitrov-adrian/directus-extension-linkmeta) - Stores hyperlink metadata into Directus.
+- [Group Modal](https://github.com/dimitrov-adrian/directus-extension-group-modal-interface) - Group interface fields into a modal that can be opened with a button.
+- [Display Link](https://github.com/jacoborus/directus-extension-display-link) - Display URLs with an "open in new tab" button.
 
 ## Tools
 
