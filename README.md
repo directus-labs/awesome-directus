@@ -12,7 +12,7 @@
 - [Integration](#integration)
 - [Extensions](#extensions)
 - [Tools](#tools)
-- [Showcases](#showcases)
+- [Examples / Showcases](#examples--showcases)
 
 ## Official Resources
 
@@ -52,9 +52,11 @@
 
 - [directus-auto-migrate](https://github.com/dstoyanoff/directus-auto-migrate) - A CLI to automatically generate Directus migrations based on the changes in a real instance.
 
-## Showcases
+## Examples / Showcases
 
 If you're using Directus in an open source project, you're very welcome to link this project here.
+
+- [Official Examples](https://github.com/directus/examples) - Integration Examples with Directus.
 
 ## Contributing
 
