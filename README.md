@@ -19,6 +19,7 @@
 - [Documentation](https://docs.directus.io/getting-started/introduction/)
 - [GitHub Repository](https://github.com/directus/directus)
 - [Live Discussions on Discord](https://directus.chat)
+- [Community Help Board](https://github.com/directus/directus/discussions/categories/q-a)
 - [Video Tutorials on YouTube](https://www.youtube.com/c/DirectusVideos/featured)
 - [Community Repositories](https://github.com/directus-community)
 
