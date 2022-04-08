@@ -48,6 +48,8 @@
 - [Websocket Subscribe](https://github.com/br41nslug/directus-websocket-subscribe) - An extension to subscribe to Directus updates over a websocket. 
 - [SVG Map Picker Interface](https://github.com/dimitrov-adrian/directus-extension-svgmap-picker-interface) - Select a value from a SVG Map box.
 - [SES](https://github.com/ryntab/Directus-SES) - An extension for sending emails with AWS SES.
+- [Data Grid Interface](https://github.com/seymoe/directus-extension-vgrid-interface) - A data grid interface width `@revolist/vue3-datagrid` for Directus 9.
+- [SparkLine Display](https://github.com/seymoe/directus-extension-sparkline-display) - A sparkline display with `apexcharts` for Directus 9.
 
 ## Tools
 
