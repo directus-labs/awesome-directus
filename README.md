@@ -29,7 +29,7 @@
 - [Offical Gatsby Source Plugin](https://www.npmjs.com/package/@directus/gatsby-source-directus) - Source plugin for pulling data into Gatsby from a Directus API.
 - [react-directus](https://github.com/gremo/react-directus) - A set of React components and utilities for Directus Headless CMS.
 - [Flutter SDK](https://pub.dev/packages/directus) - Flutter SDK to provide interface for Directus API.
-- [PHP SDK](https://github.com/Slations/directus-php-sdk) - PHP SDK to provide easy access to the Directus API.
+- [PHP SDK](https://github.com/alantiller/directus-php-sdk) - PHP SDK to provide easy access to the Directus API.
 
 ## Extensions
 
