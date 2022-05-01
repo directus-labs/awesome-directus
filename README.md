@@ -30,6 +30,7 @@
 - [react-directus](https://github.com/gremo/react-directus) - A set of React components and utilities for Directus Headless CMS.
 - [Flutter SDK](https://pub.dev/packages/directus) - Flutter SDK to provide interface for Directus API.
 - [PHP SDK](https://github.com/alantiller/directus-php-sdk) - PHP SDK to provide easy access to the Directus API.
+- [Lite SDK (typescript)](https://github.com/jacoborus/directus-lite-sdk) - Query builder for the Directus API (Browser, Deno, Node.js). Bring your own fetch.
 
 ## Extensions
 
