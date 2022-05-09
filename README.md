@@ -51,7 +51,7 @@
 - [SES](https://github.com/ryntab/Directus-SES) - An extension for sending emails with AWS SES.
 - [Data Grid Interface](https://github.com/seymoe/directus-extension-vgrid-interface) - A data grid interface width `@revolist/vue3-datagrid` for Directus 9.
 - [SparkLine Display](https://github.com/seymoe/directus-extension-sparkline-display) - A sparkline display with `apexcharts` for Directus 9.
-- [Tags M2M](https://github.com/dimitrov-adrian/directus-extension-tags-m2m-interface) - M2M driven tags interface
+- [Tags M2M](https://github.com/dimitrov-adrian/directus-extension-tags-m2m-interface) - M2M driven tags interface.
 
 ## Tools
 
