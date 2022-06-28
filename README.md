@@ -22,6 +22,7 @@
 - [Community Help Board](https://github.com/directus/directus/discussions/categories/q-a)
 - [Video Tutorials on YouTube](https://www.youtube.com/c/DirectusVideos/featured)
 - [Community Repositories](https://github.com/directus-community)
+- [Portuguese YouTube Channel](https://www.youtube.com/c/DirectusBR)
 
 ## Integration
 
