@@ -9,6 +9,7 @@
 ## Contents
 
 - [Official Resources](#official-resources)
+- [Community Resources](#community-resources)
 - [Integration](#integration)
 - [Extensions](#extensions)
 - [Tools](#tools)
