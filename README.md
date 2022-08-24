@@ -23,6 +23,10 @@
 - [Video Tutorials on YouTube](https://www.youtube.com/c/DirectusVideos/featured)
 - [Community Repositories](https://github.com/directus-community)
 
+## Community Resources
+
+- [Portuguese YouTube Channel](https://www.youtube.com/c/DirectusBR)
+
 ## Integration
 
 - [Offical JS SDK](https://www.npmjs.com/package/@directus/sdk) - The JS SDK provides an intuitive interface for the Directus API from within a JavaScript-powered project (Browsers and Node.js).
