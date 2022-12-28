@@ -13,6 +13,7 @@
 - [Integration](#integration)
 - [Extensions](#extensions)
 - [Tools](#tools)
+- [Interesting Articles](#articles)
 - [Examples / Showcases](#examples--showcases)
 
 ## Official Resources
@@ -36,6 +37,7 @@
 - [Flutter SDK](https://pub.dev/packages/directus) - Flutter SDK to provide interface for Directus API.
 - [PHP SDK](https://github.com/alantiller/directus-php-sdk) - PHP SDK to provide easy access to the Directus API.
 - [Lite SDK (TypeScript)](https://github.com/jacoborus/directus-lite-sdk) - Query builder for the Directus API (Browser, Deno, Node.js). Bring your own fetch.
+- [Nuxt Directus](https://github.com/directus-community/nuxt-directus) - First-Class Nuxt 3 Module for connecting with an Directus instance.
 - [Nuxtus](https://nuxtus.com) - Provides a Nuxt boilerplate and set of tools to automatically create Nuxt pages from Directus Collections.
 
 ## Extensions
@@ -60,10 +62,22 @@
 - [Tags M2M](https://github.com/dimitrov-adrian/directus-extension-tags-m2m-interface) - M2M driven tags interface.
 - [Cloudinary Upload Interface](https://github.com/kevcomparadise/directus-vue3-cloudinary-upload) - Simple interface for upload/read cloudinary image.
 - [Sanitize HTML](https://github.com/licitdev/directus-extension-sanitize-html) - Sanitize HTML inputs to Directus.
+- [Directus LogSnag](https://github.com/Intevel/directus-logsnag) - Sending your events from Directus directly to your phone using LogSnag
 
 ## Tools
 
 - [directus-auto-migrate](https://github.com/dstoyanoff/directus-auto-migrate) - A CLI to automatically generate Directus migrations based on the changes in a real instance. (no longer maintained, feature added to core)
+
+## Articles
+
+- [How to backup Directus](https://learndirectus.com/how-to-backup-directus/)
+- [Link Directus to a SMTP Relay](https://learndirectus.com/link-directus-to-a-smtp-relay/)
+- [How to use OAuth 2.0 with Directus](https://learndirectus.com/using-oauth-with-directus/)
+- [How to work with Many to Many relationships (M2M) on Directus](https://medium.com/@bianperotti/how-i-made-a-many-to-many-relationship-on-directus-b158ff55de7e)
+- [Build a blog with Nuxt 3 & Directus](https://directus.io/guides/get-started-building-a-nuxt-3-blog-with-directus/)
+- [How to Manage Your Supabase Database with Directus](https://directus.io/guides/directus-plus-supabase/)
+
+More articles you can find at [LearnDirectus](https://learndirectus.com/) & [Directus Guides](https://directus.io/guides/)
 
 ## Examples / Showcases
 
