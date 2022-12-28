@@ -62,7 +62,7 @@
 - [Tags M2M](https://github.com/dimitrov-adrian/directus-extension-tags-m2m-interface) - M2M driven tags interface.
 - [Cloudinary Upload Interface](https://github.com/kevcomparadise/directus-vue3-cloudinary-upload) - Simple interface for upload/read cloudinary image.
 - [Sanitize HTML](https://github.com/licitdev/directus-extension-sanitize-html) - Sanitize HTML inputs to Directus.
-- [Directus LogSnag](https://github.com/Intevel/directus-logsnag) - Sending your events from Directus directly to your phone using LogSnag
+- [Directus LogSnag](https://github.com/Intevel/directus-logsnag) - Sending your events from Directus directly to your phone using LogSnag.
 
 ## Tools
 
