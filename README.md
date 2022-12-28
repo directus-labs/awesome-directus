@@ -13,7 +13,7 @@
 - [Integration](#integration)
 - [Extensions](#extensions)
 - [Tools](#tools)
-- [Interesting Articles](#articles)
+- [Articles](#articles)
 - [Examples / Showcases](#examples--showcases)
 
 ## Official Resources
