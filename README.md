@@ -70,14 +70,9 @@
 
 ## Articles
 
-- [How to backup Directus](https://learndirectus.com/how-to-backup-directus/)
-- [Link Directus to a SMTP Relay](https://learndirectus.com/link-directus-to-a-smtp-relay/)
-- [How to use OAuth 2.0 with Directus](https://learndirectus.com/using-oauth-with-directus/)
-- [How to work with Many to Many relationships (M2M) on Directus](https://medium.com/@bianperotti/how-i-made-a-many-to-many-relationship-on-directus-b158ff55de7e)
-- [Build a blog with Nuxt 3 & Directus](https://directus.io/guides/get-started-building-a-nuxt-3-blog-with-directus/)
-- [How to Manage Your Supabase Database with Directus](https://directus.io/guides/directus-plus-supabase/)
-
-More articles you can find at [LearnDirectus](https://learndirectus.com/) & [Directus Guides](https://directus.io/guides/)
+- [Directus Guides (Official)](https://directus.io/guides/)
+- [Learn Directus](https://learndirectus.com/)
+- [How to Work With Many to Many Relationships (M2M) On Directus](https://medium.com/@bianperotti/how-i-made-a-many-to-many-relationship-on-directus-b158ff55de7e)
 
 ## Examples / Showcases
 
