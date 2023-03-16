@@ -39,6 +39,7 @@
 - [Lite SDK (TypeScript)](https://github.com/jacoborus/directus-lite-sdk) - Query builder for the Directus API (Browser, Deno, Node.js). Bring your own fetch.
 - [Nuxt Directus](https://github.com/directus-community/nuxt-directus) - First-Class Nuxt 3 Module for connecting with an Directus instance.
 - [Nuxtus](https://nuxtus.com) - Provides a Nuxt boilerplate and set of tools to automatically create Nuxt pages from Directus Collections.
+- [cool-stack](https://github.com/tdsoftpl/cool-stack) - Template repository integrating Directus & Remix into a full-stack monorepo.
 
 ## Extensions
 
