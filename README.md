@@ -73,10 +73,11 @@
 - [directus-auto-migrate](https://github.com/dstoyanoff/directus-auto-migrate) - A CLI to automatically generate Directus migrations based on the changes in a real instance. (no longer maintained, feature added to core)
 
 ## Articles
-- [Creating a custom panel in Directus with ChartJs](https://blog.eperedo.com/2023/02/14/custom-panel-directus-chart-js)
+
 - [Directus Guides (Official)](https://directus.io/guides/)
 - [Learn Directus](https://learndirectus.com/)
 - [How to Work With Many to Many Relationships (M2M) On Directus](https://medium.com/@bianperotti/how-i-made-a-many-to-many-relationship-on-directus-b158ff55de7e)
+- [Creating a custom panel in Directus with ChartJs](https://blog.eperedo.com/2023/02/14/custom-panel-directus-chart-js)
 
 ## Examples / Showcases
 
