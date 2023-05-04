@@ -83,7 +83,7 @@
 
 ### Personal
 
-- [Get started with Directus](https://medium.com/7span/no-code-backend-get-started-with-directus-7876bffdbd1d)
+- [Get Started With Directus](https://medium.com/7span/no-code-backend-get-started-with-directus-7876bffdbd1d)
 
 ## Examples / Showcases
 
