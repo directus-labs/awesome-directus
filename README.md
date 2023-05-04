@@ -12,7 +12,6 @@
 - [Community Resources](#community-resources)
 - [Integration](#integration)
 - [Extensions](#extensions)
-- [Tools](#tools)
 - [Articles](#articles)
 - [Examples / Showcases](#examples--showcases)
 
@@ -57,20 +56,15 @@
 - [SQL Panel](https://github.com/harish2704/directus-sql-panel) - Panel component which shows result of stored SQL query as a table.
 - [Websocket Subscribe](https://github.com/br41nslug/directus-websocket-subscribe) - An extension to subscribe to Directus updates over a websocket. 
 - [SVG Map Picker Interface](https://github.com/dimitrov-adrian/directus-extension-svgmap-picker-interface) - Select a value from a SVG Map box.
-- [SES](https://github.com/ryntab/Directus-SES) - An extension for sending emails with AWS SES.
+- [Directus Mailer](https://github.com/ryntab/Directus-Mailer) - An endpoint for sending emails with the Directus Nodemailer service.
 - [Data Grid Interface](https://github.com/seymoe/directus-extension-vgrid-interface) - A data grid interface width `@revolist/vue3-datagrid` for Directus 9.
 - [SparkLine Display](https://github.com/seymoe/directus-extension-sparkline-display) - A sparkline display with `apexcharts` for Directus 9.
 - [Tags M2M](https://github.com/dimitrov-adrian/directus-extension-tags-m2m-interface) - M2M driven tags interface.
-- [Cloudinary Upload Interface](https://github.com/kevcomparadise/directus-vue3-cloudinary-upload) - Simple interface for upload/read cloudinary image.
 - [Sanitize HTML](https://github.com/licitdev/directus-extension-sanitize-html) - Sanitize HTML inputs to Directus.
 - [Directus LogSnag](https://github.com/Intevel/directus-logsnag) - Sending your events from Directus directly to your phone using LogSnag.
 - [Field Actions](https://github.com/utomic-media/directus-extension-field-actions) - Adds copy to clipboard and open URL's action-buttons to fields (interface + display).
 - [Generate Types](https://github.com/maltejur/directus-extension-generate-types) - Adds a module for generating typescript types for a Directus JS-SDK connected to that Directus database. Also can generate Python or OpenAPI types.
 - [Computed Interface](https://github.com/rezo-labs/directus-extension-computed-interface) - Perform computed value based on other fields.
-
-## Tools
-
-- [directus-auto-migrate](https://github.com/dstoyanoff/directus-auto-migrate) - A CLI to automatically generate Directus migrations based on the changes in a real instance. (no longer maintained, feature added to core)
 
 ## Articles
 
