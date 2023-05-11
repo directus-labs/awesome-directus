@@ -66,7 +66,7 @@
 - [Generate Types](https://github.com/maltejur/directus-extension-generate-types) - Adds a module for generating typescript types for a Directus JS-SDK connected to that Directus database. Also can generate Python or OpenAPI types.
 - [Computed Interface](https://github.com/rezo-labs/directus-extension-computed-interface) - Perform computed value based on other fields.
 - [Inline Form Interface](https://github.com/hanneskuettner/directus-extension-inline-form-interface) - Edit M2O relations in an inline form contained in the parent record.
-- [Tab Group Interface](https://github.com/hanneskuettner/directus-extension-group-tabs-interface) - Display groups as tabs panels, as a pretty, space saving alternative to the accordion group
+- [Tab Group Interface](https://github.com/hanneskuettner/directus-extension-group-tabs-interface) - Display groups as tab panels, as a pretty, space saving alternative to the accordion group
 
 ## Articles
 
