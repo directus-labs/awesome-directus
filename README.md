@@ -8,14 +8,15 @@
 
 ## Contents
 
-- [Official Resources](#official-resources)
-- [Community Resources](#community-resources)
+- [Resources](#resources)
 - [Integration](#integration)
 - [Extensions](#extensions)
 - [Articles](#articles)
 - [Examples / Showcases](#examples--showcases)
 
-## Official Resources
+## Resources
+
+### Offical
 
 - [Documentation](https://docs.directus.io/getting-started/introduction/)
 - [GitHub Repository](https://github.com/directus/directus)
@@ -24,7 +25,7 @@
 - [Video Tutorials on YouTube](https://www.youtube.com/c/DirectusVideos/featured)
 - [Community Repositories](https://github.com/directus-community)
 
-## Community Resources
+### Community
 
 - [Portuguese YouTube Channel](https://www.youtube.com/c/DirectusBR)
 
