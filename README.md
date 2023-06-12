@@ -81,7 +81,6 @@
 - [How to Work With Many to Many Relationships (M2M) On Directus](https://medium.com/@bianperotti/how-i-made-a-many-to-many-relationship-on-directus-b158ff55de7e)
 - [Creating a Custom Panel in Directus With Chart.js](https://blog.eperedo.com/2023/02/14/custom-panel-directus-chart-js)
 
-
 ### Personal
 
 - [Get Started With Directus](https://medium.com/7span/no-code-backend-get-started-with-directus-7876bffdbd1d)
