@@ -90,6 +90,7 @@
 If you're using Directus in an open source project, you're very welcome to link this project here.
 
 - [Official Examples](https://github.com/directus/examples) - Integration examples with Directus.
+- [Nuxt 3 Demo](https://github.com/bryantgillespie/nuxt3-directus-starter) - Opinionated Nuxt 3 / Directus Starter with Tailwind CSS.
 
 ## Contributing
 
