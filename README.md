@@ -72,6 +72,7 @@
 - [Imagga Hook](https://github.com/gbicou/directus-extension-imagga) - Hook for file uploads to automatically tag images with [Imagga API](https://imagga.com/).
 - [Tiptap Interface & Display](https://github.com/gbicou/directus-extension-tiptap) - Tiptap rich text editor interface and display.
 - [API Viewer](https://github.com/u12206050/directus-extension-api-viewer-module) - View and run API queries directly from a Module.
+- [Flexible Editor](https://github.com/formfcw/directus-extension-flexible-editor) - A Rich Text Editor (WYSIWYG) with JSON output, that allows to integrate M2A relations to make it extremely flexible.
 
 ## Articles
 
