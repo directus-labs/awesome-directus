@@ -73,6 +73,7 @@
 - [Tiptap Interface & Display](https://github.com/gbicou/directus-extension-tiptap) - Tiptap rich text editor interface and display.
 - [API Viewer](https://github.com/u12206050/directus-extension-api-viewer-module) - View and run API queries directly from a Module.
 - [Flexible Editor](https://github.com/formfcw/directus-extension-flexible-editor) - A Rich Text Editor (WYSIWYG) with JSON output, that allows to integrate M2A relations to make it extremely flexible.
+- [BlurHash](https://github.com/pixielabs/directus-extension-blurhash/) - Generate and store BlurHashes (tiny representations of placeholder thumbnails for use whilst the full image is loading) on image upload and return them in the API response for the image.
 
 ## Articles
 
