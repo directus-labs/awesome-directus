@@ -8,11 +8,20 @@
 
 ## Contents
 
-- [Resources](#resources)
-- [Integration](#integration)
-- [Extensions](#extensions)
-- [Articles](#articles)
-- [Examples / Showcases](#examples--showcases)
+- [Awesome Directus ](#awesome-directus-)
+  - [Contents](#contents)
+  - [Resources](#resources)
+    - [Offical](#offical)
+    - [Community](#community)
+  - [Integration](#integration)
+  - [Extensions](#extensions)
+    - [Extension Scripts](#extension-scripts)
+    - [Tools](#tools)
+  - [Articles](#articles)
+    - [Educational](#educational)
+    - [Personal](#personal)
+  - [Examples / Showcases](#examples--showcases)
+  - [Contributing](#contributing)
 
 ## Resources
 
@@ -82,6 +91,7 @@
 - [Drawer Notice](https://github.com/formfcw/directus-extension-drawer-notice) - A notice field that is only visible in the drawer.
 - [Classified Group](https://github.com/formfcw/directus-extension-classified-group) - A group to which a class can be assigned for custom styling.
 - [Tokenized Preview](https://github.com/formfcw/directus-extension-tokenized-preview) - An endpoint that adds an active auth token to your preview URL.
+- [Umami Analytics](https://github.com/egidiusmengelberg/directus-extension-umami) - Add Umami analytics to Directus.
 
 ### Extension Scripts
 
