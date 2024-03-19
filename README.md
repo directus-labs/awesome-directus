@@ -8,20 +8,17 @@
 
 ## Contents
 
-- [Awesome Directus ](#awesome-directus-)
-  - [Contents](#contents)
-  - [Resources](#resources)
-    - [Offical](#offical)
-    - [Community](#community)
-  - [Integration](#integration)
-  - [Extensions](#extensions)
-    - [Extension Scripts](#extension-scripts)
-    - [Tools](#tools)
-  - [Articles](#articles)
-    - [Educational](#educational)
-    - [Personal](#personal)
-  - [Examples / Showcases](#examples--showcases)
-  - [Contributing](#contributing)
+- [Resources](#resources)
+  - [Offical](#offical)
+  - [Community](#community)
+- [Integration](#integration)
+- [Extensions](#extensions)
+  - [Extension Scripts](#extension-scripts)
+  - [Tools](#tools)
+- [Articles](#articles)
+  - [Educational](#educational)
+  - [Personal](#personal)
+- [Examples / Showcases](#examples--showcases)
 
 ## Resources
 
